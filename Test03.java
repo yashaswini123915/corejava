@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 package Arrays;
 
 import java.lang.*;
@@ -37,6 +38,28 @@ public class Test03 {
 		System.out.println("min = "+min);
 		System.out.println("Average = "+(s/c));
 		System.out.println("count = "+c);
+=======
+package corejavaprograms;
+
+public class Test03 {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+					int age=45;
+					System.out.print("age= " +age);
+					
+					int a= 5,b=3;
+					System.out.println("Value of a= " +a);
+					System.out.println("Value of b= " +b);
+					
+					System.out.print("Value of a= "+a);
+					System.out.print("\tValue of b= "+b);
+					
+			
+					
+
+>>>>>>> 53b19911aeee7dce79333d8e843babf2ea35f70c
 
 	}
 

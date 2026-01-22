@@ -1,9 +1,16 @@
+<<<<<<< HEAD
 package Arrays;
 import java.lang.*;
+=======
+
+package corejavaprograms;
+
+>>>>>>> 53b19911aeee7dce79333d8e843babf2ea35f70c
 
 public class Test01 {
 
 	public static void main(String[] args) {
+<<<<<<< HEAD
 		// TODO Auto-generated method stub
 
 		int a[],c=0,s=0,i;
@@ -27,4 +34,11 @@ public class Test01 {
 		System.out.println("Max= "+max);
 		System.out.println("Min= "+min);
 	}
+=======
+
+		System.out.print("welcome to java");
+
+	}
+
+>>>>>>> 53b19911aeee7dce79333d8e843babf2ea35f70c
 }
